@@ -1,9 +1,0 @@
-low_p1 | WS k=6, p_r=1 | MC window (0.08, 0.92) | MF roots [0.0341854, 0.935902] | MF peak 0.0518117
-low_p1 | BA m=3 | MC window (0.08, 0.92) | MF roots [0.0341854, 0.935902] | MF peak 0.0518117
-low_p1 | BA m=5 | MC window (0.08, 0.92) | MF roots [0.0341854, 0.935902] | MF peak 0.0518117
-near_critical | WS k=6, p_r=1 | MC window (0.13, 0.43) | MF roots [0.134353, 0.391685] | MF peak 0.00239863
-near_critical | BA m=3 | MC window (0.155, 0.38) | MF roots [0.134353, 0.391685] | MF peak 0.00239863
-near_critical | BA m=5 | MC window (0.13, 0.38) | MF roots [0.134353, 0.391685] | MF peak 0.00239863
-finite_size | BA m=5, N=500 | MC window (0.115385, 0.573077) | MF roots [0.091606, 0.60789] | MF peak 0.00861275
-finite_size | BA m=5, N=1000 | MC window (0.115385, 0.573077) | MF roots [0.091606, 0.60789] | MF peak 0.00861275
-finite_size | BA m=5, N=2000 | MC window (0.115385, 0.573077) | MF roots [0.091606, 0.60789] | MF peak 0.00861275
