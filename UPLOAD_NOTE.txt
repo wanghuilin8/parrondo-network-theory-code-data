@@ -1,0 +1,19 @@
+Upload all files and folders in this directory to the GitHub repository main branch after final approval:
+
+  https://github.com/wanghuilin8/parrondo-network-theory-code-data
+
+This directory is the final v25 code/data package matching the revised CNSNS manuscript.
+
+Expected root contents after upload:
+  .gitignore
+  README.md
+  README_reproducibility.md
+  requirements.txt
+  generate_figures.py
+  run_robustness_simulations.py
+  test_neighbor_sampling.py
+  data/
+  figures/
+  V25_MICRO_PATCH_REPORT.md
+
+Replace old repository contents with these files after the final manuscript package is approved locally.
